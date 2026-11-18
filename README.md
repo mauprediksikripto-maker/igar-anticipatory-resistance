@@ -1,4 +1,4 @@
-# Voiced resistance before enforcement — replication package
+# Voiced resistance before enforcement - replication package
 
 Code, coding instruments, labels, and estimation outputs for the article
 **"Voiced resistance before enforcement: Quasi-experimental evidence from app-based government mandates in Indonesia"**
