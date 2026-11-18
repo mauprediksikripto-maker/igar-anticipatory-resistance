@@ -1,0 +1,25 @@
+app,kontrol,desain,event,keterangan,outcome,level,se,p,n_pre,n_post,n_placebo,p_placebo
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,kebijakan,0.049592974493320285,0.036601153240748446,0.1754313819047877,60,6,289,0.32413793103448274
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,kebijakan,0.05710455324894169,0.023958551069257886,0.01715015482970081,60,6,245,0.5040650406504065
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,gagal_teknis,0.06702234176470775,0.10571935026833852,0.5261038251534151,60,6,289,0.603448275862069
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,gagal_teknis,-0.08330160364075223,0.03810354417182494,0.028801676085971385,60,6,245,0.7601626016260162
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,gap_kebijakan_teknis,-0.01742936727138744,0.1396752304389733,0.9006937988743338,60,6,289,0.906896551724138
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,gap_kebijakan_teknis,0.1404061568896939,0.05052943759082307,0.005457687522984608,60,6,245,0.6504065040650406
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),kebijakan,0.013058624768947504,0.0076283587666613525,0.08692386036200232,60,60,300,0.5681063122923588
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),kebijakan,-0.005038689731764023,0.014318075649525546,0.7249049354771369,60,60,300,0.9169435215946844
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),gagal_teknis,-0.013341669092455544,0.04610928691730686,0.7723144341817167,60,60,300,0.9302325581395349
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),gagal_teknis,0.007143568089148974,0.07266846423205307,0.9216912584483201,60,60,300,0.9700996677740864
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),gap_kebijakan_teknis,0.02640029386140303,0.04611748096545627,0.5670121293489649,60,60,300,0.8637873754152824
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),gap_kebijakan_teknis,-0.012182257820912989,0.07943572418371525,0.8781144351023158,60,60,300,0.9401993355481728
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,kebijakan,0.010571396326308899,0.009527781090037801,0.2671999188076605,60,51,300,0.6312292358803987
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,kebijakan,0.02350853813933151,0.013709317443629018,0.08638456935020275,60,51,300,0.6245847176079734
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,gagal_teknis,0.034023536874954824,0.029618467500866334,0.25066851929361555,60,51,300,0.813953488372093
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,gagal_teknis,-0.07290384906828601,0.05982608292069022,0.22299741740480405,60,51,300,0.6312292358803987
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,gap_kebijakan_teknis,-0.023452140548645924,0.030555871695908433,0.44277439246107364,60,51,300,0.8704318936877077
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,gap_kebijakan_teknis,0.09641238720761755,0.06400488929222366,0.13198287208974552,60,51,300,0.5780730897009967
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),kebijakan,0.01593010054154312,0.009424421714409345,0.0909705646098057,60,48,300,0.5282392026578073
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),kebijakan,0.02511010324754805,0.016201995341719296,0.12118580956937924,60,48,300,0.6146179401993356
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),gagal_teknis,0.05003114738485493,0.022552879550822042,0.026528056273699346,60,48,300,0.7043189368770764
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),gagal_teknis,-0.051456203419788,0.05893754272969891,0.3826285959478576,60,48,300,0.7275747508305648
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),gap_kebijakan_teknis,-0.03410104684331185,0.02106312386609902,0.1054488024859324,60,48,300,0.8205980066445183
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),gap_kebijakan_teknis,0.07656630666733609,0.06535909544602417,0.2414093741446387,60,48,300,0.6677740863787376

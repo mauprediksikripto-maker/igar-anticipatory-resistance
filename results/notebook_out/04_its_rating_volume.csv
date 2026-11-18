@@ -1,0 +1,25 @@
+app,kontrol,desain,event,keterangan,outcome,level,se,p,n_pre,n_post,n_placebo,p_placebo
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,rating,-1.0985750815858082,0.3791398453529644,0.0037609477246970655,60,6,289,0.07586206896551724
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,rating,-1.3429297028494738,0.22969207944448894,5.015646408612996e-09,60,6,245,0.024390243902439025
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,bintang1,0.3250056539205102,0.13841034620444737,0.01886787332317263,60,6,289,0.027586206896551724
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,bintang1,0.4192138753193666,0.06809009601277075,7.425170561696155e-10,60,6,245,0.0040650406504065045
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,log_n,4.4439496857530365,0.5663289530665747,4.263088547596409e-15,60,6,289,0.0034482758620689655
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,log_n,4.0637813624561065,0.49808975181871945,3.3855672943481836e-16,60,6,245,0.0040650406504065045
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),rating,-0.04108115329164884,0.2613214608699394,0.8750829469800232,60,60,300,0.9534883720930233
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),rating,-0.03227723075303526,0.34019559212188266,0.9244113730542911,60,60,300,0.9435215946843853
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),bintang1,0.006069001438186859,0.06683510853278934,0.927647068522848,60,60,300,0.9601328903654485
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),bintang1,0.015185017226905094,0.08918947237485327,0.864809038457539,60,60,300,0.9435215946843853
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),log_n,0.04941435722562587,0.30482417451786026,0.8712210132538005,60,60,300,0.9136212624584718
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),log_n,-0.43277050791570176,0.3366324239967196,0.1985869873049333,60,60,300,0.5880398671096345
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,rating,-0.1469321031373449,0.19041474737683445,0.44032622186219716,60,51,300,0.8006644518272426
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,rating,0.4386902801904856,0.28408154187356743,0.12253003143688758,60,51,300,0.5282392026578073
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,bintang1,0.018127039110236255,0.04981985948813427,0.7159687756443534,60,51,300,0.8903654485049833
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,bintang1,-0.13270036852820194,0.07106706022717903,0.0618658979336252,60,51,300,0.4850498338870432
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,log_n,0.6016171782467936,0.2772086338826435,0.029986508128931003,60,51,300,0.2757475083056478
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,log_n,0.9228387388557606,0.36699603616016646,0.011917624480101119,60,51,300,0.31893687707641194
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),rating,-0.2922486881562091,0.1805496808881687,0.10552026881627445,60,48,300,0.6378737541528239
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),rating,0.35946109401752285,0.2732501687652678,0.18834130645982938,60,48,300,0.5880398671096345
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),bintang1,0.05698699055431389,0.04864028610050677,0.2413574291147571,60,48,300,0.7009966777408638
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),bintang1,-0.11234217213755412,0.07001544183822209,0.10859634847958374,60,48,300,0.53156146179402
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),log_n,0.5154123797322305,0.3065202225201212,0.09266670668006868,60,48,300,0.3521594684385382
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),log_n,0.8116439403493799,0.4244867583165849,0.05586856232040745,60,48,300,0.36212624584717606

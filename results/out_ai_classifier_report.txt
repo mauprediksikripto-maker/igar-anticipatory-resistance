@@ -1,0 +1,15 @@
+                  precision    recall  f1-score   support
+
+           beban       0.51      0.47      0.49        96
+        eksklusi       0.51      0.72      0.60        25
+     exit_siasat       0.04      0.12      0.06         8
+    gagal_teknis       0.89      0.66      0.76       395
+ketidakpercayaan       0.45      0.76      0.56        38
+         lainnya       0.48      0.52      0.50        99
+         paksaan       0.34      0.57      0.43        28
+  patuh_menerima       0.84      0.82      0.83       188
+         privasi       0.40      0.91      0.56        23
+
+        accuracy                           0.66       900
+       macro avg       0.49      0.62      0.53       900
+    weighted avg       0.72      0.66      0.68       900

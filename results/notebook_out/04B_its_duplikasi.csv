@@ -1,0 +1,17 @@
+app,kontrol,desain,event,keterangan,outcome,level,se,p,n_pre,n_post,n_placebo,p_placebo
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,dup,-0.012520025363407516,0.009019704278303774,0.16511423035909067,60,6,289,0.21724137931034482
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,dup,-0.007323300270349664,0.005169145678531526,0.15656094806844562,60,6,245,0.6056910569105691
+pertamina,,ITS,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,panjang,0.9273322695441006,1.7079918220882933,0.5871730532857184,60,6,289,0.7896551724137931
+pertamina,JMO,DiD,2022-06-27,Pengumuman wajib daftar MyPertamina untuk Pertalite/Solar,panjang,-2.0437069774201553,1.1684758219272415,0.08028469325308273,60,6,245,0.6869918699186992
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),dup,0.0011735058549330523,0.0011232289732813216,0.29613343183170726,60,60,300,0.9003322259136213
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),dup,0.0012786194439371463,0.002538224997405402,0.614440223719072,60,60,300,0.9102990033222591
+satusehat,,ITS,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),panjang,0.03882367021647126,1.0720946569906995,0.9711125899001392,60,60,300,0.9800664451827242
+satusehat,mobileJKN,DiD,2021-08-10,PeduliLindungi wajib untuk masuk mal (diumumkan malam 9 Agu),panjang,0.2133791340945127,1.7097378386558517,0.9006801038005972,60,60,300,0.973421926910299
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,dup,0.0014045257092134803,0.0009006122451809967,0.11887259299930503,60,51,300,0.8837209302325582
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,dup,0.010262381010967103,0.003994214511306052,0.010190083299358563,60,51,300,0.4053156146179402
+satusehat,,ITS,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,panjang,0.7900882086340014,0.7385492297461468,0.28471650960494477,60,51,300,0.6611295681063123
+satusehat,mobileJKN,DiD,2021-08-25,Pengumuman PeduliLindungi wajib untuk semua moda transportasi,panjang,0.19518297162841464,1.276260716926107,0.8784507463386547,60,51,300,0.9767441860465116
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),dup,0.0024467196460174327,0.0006763478051760735,0.0002974088929406687,60,48,300,0.8039867109634552
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),dup,0.007052970400805445,0.004958849101142683,0.1549392184460624,60,48,300,0.5348837209302325
+satusehat,,ITS,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),panjang,1.0900909603121551,0.5786884200362479,0.05960192192708251,60,48,300,0.5581395348837209
+satusehat,mobileJKN,DiD,2021-08-28,PeduliLindungi wajib untuk perjalanan transportasi (berlaku),panjang,0.5206171436449949,1.1581279625757561,0.6530469551490468,60,48,300,0.893687707641196

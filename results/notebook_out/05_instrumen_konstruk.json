@@ -1,0 +1,58 @@
+{
+  "constructs": {
+    "paksaan": [
+      "kenapa harus wajib pakai aplikasi",
+      "rakyat dipaksa install aplikasi ini",
+      "beli bensin saja harus pakai aplikasi",
+      "kok diwajibkan pakai aplikasi"
+    ],
+    "beban": [
+      "ribet dan menyusahkan rakyat",
+      "bikin repot saja",
+      "mempersulit masyarakat kecil",
+      "prosesnya berbelit belit"
+    ],
+    "gagal_teknis": [
+      "aplikasi error tidak bisa dibuka",
+      "gagal daftar terus",
+      "loading lama server down",
+      "kode otp tidak masuk"
+    ],
+    "eksklusi": [
+      "tidak semua orang punya hp android",
+      "orang tua tidak bisa pakai aplikasi",
+      "di desa sinyal susah",
+      "kuota internet mahal"
+    ],
+    "privasi": [
+      "data pribadi tidak aman",
+      "takut data bocor",
+      "minta data terlalu banyak"
+    ],
+    "ketidakpercayaan": [
+      "pemerintah membohongi rakyat",
+      "cuma akal akalan cari untung",
+      "modus memperkaya diri",
+      "aplikasi ini penipuan"
+    ],
+    "exit_siasat": [
+      "saya uninstall aplikasi ini",
+      "mending beli bensin eceran saja",
+      "lebih baik antre manual daripada pakai aplikasi",
+      "pakai akun orang lain saja"
+    ],
+    "patuh_menerima": [
+      "sangat membantu",
+      "mudah digunakan",
+      "terima kasih aplikasinya bagus",
+      "memudahkan urusan saya"
+    ]
+  },
+  "lexicon": {
+    "lex_paksaan": "\\b(wajib|diwajibkan|dipaksa|paksa|harus pake|harus pakai|keharusan)\\b",
+    "lex_keluar": "\\b(hapus|uninstal\\w*|uninstall\\w*|copot|delete)\\b",
+    "lex_eksklusi": "\\b(hp jadul|tidak punya hp|gak punya hp|ga punya hp|sinyal|kuota|orang tua|lansia|gaptek)\\b"
+  },
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "threshold": 0.5
+}
